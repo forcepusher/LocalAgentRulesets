@@ -11,5 +11,5 @@ Every request:
 2. Use tools to edit files, NEVER output code to chat.
 3. Linter diagnostics.
 ```
-Yes it's very short, that's the whole point.  
-So your local models are much less likely to mess up tool calls or go schizo. Very hard to get just right.
+Yes it's very short, that's the whole point. So you avoid schizo and tool call messups.  
+It's very hard to get just right on small quantized MoE models.
