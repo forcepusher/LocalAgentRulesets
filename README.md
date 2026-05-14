@@ -9,7 +9,7 @@ Think short and terse, respond short and terse. Subject, next step.
 Every request:
 1. Web research.
 2. Use tools to edit files, NEVER output code to chat.
-3. Linter diagnostics.
+3. Linter diagnostics, make sure no copilation errors exist.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
