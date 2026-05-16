@@ -12,9 +12,9 @@ Rules:
 3. Response language MUST match user's last message.
 
 Follow this sequence for every request:
-1. Do a web research.
-2. Edit referenced files, NEVER output code to chat.
-3. You MUST use linter diagnostics after writing code.
+1. Do a web research until you find relevant information.
+2. You MUST edit referenced files, NEVER output code to chat.
+3. Use code diagnostics tool after code edits.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
