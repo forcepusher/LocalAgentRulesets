@@ -23,7 +23,7 @@ Follow this sequence for EVERY user's message:
 
 Checklist before final reply:
 1. NEVER send final response until code is written to files.
-2. Project MUST be checked with diagnostics tool after last code change.
+2. Project MUST be recently checked with diagnostics tool.
 3. Work MUST be fully finished, no "next steps" remaining.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
