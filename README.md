@@ -13,7 +13,7 @@ General rules:
 3. Response language MUST match user's last message.
 
 Tool rules:
-1. Carefully match tool usage schema.
+1. Carefully match tool usage schema. Forward slashes for paths.
 2. Do not make parallel edits in the same file.
 3. Be specific when using edit_file to not mix with other lines.
 
