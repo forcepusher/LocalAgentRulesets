@@ -25,7 +25,7 @@ Follow this sequence for EVERY user's message:
 Checklist before final reply:
 1. NEVER send final response until code is written to files.
 2. Project MUST be recently checked with diagnostics tool.
-3. Work MUST be fully finished, no "next steps" remaining.
+3. Work MUST be fully finished, questions fully answered.
 ```
 Yes it's very short, that's the whole point. This avoids schizo loops and tool call screwups.  
 It's very hard to get just right on small quantized MoE models.
